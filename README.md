@@ -6,4 +6,7 @@
 
 ## Shells 脚本
 
+* 静态审核代码 [oclint](http://www.jianshu.com/p/520815d0742c)
+* 自动化打包 [auto-archive.sh](http://www.jianshu.com/p/ef4cddadd2d1)
+* [Reveal install](http://www.jianshu.com/p/837be391e30e)
 
