@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tttextAttachment</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSTextAttachment *imageAttachment = [[NSTextAttachment alloc] init];
+imageAttachment.image = image;
+imageAttachment.bounds = CGRectMake(0, 0, 30, 30);
+NSDictionary *imageAttributes = @{NSAttachmentAttributeName:imageAttachment};
+NSAttributedString *imageAttStr = [[NSAttributedString alloc] initWithString:@"" attributes:imageAttributes];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>881126F5-281E-4CDC-83F7-7D3BF66DD0AE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>apply NSTextAttachment</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
