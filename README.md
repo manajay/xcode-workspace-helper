@@ -4,6 +4,10 @@
 
 ## XcodeSnippets 代码块
 
+```
+./xcode_tool/setup_snippets.sh
+```
+
 ## Shells 脚本
 
 * 静态审核代码 [oclint](http://www.jianshu.com/p/520815d0742c)
